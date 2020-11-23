@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    display: block;
+    line-height: 0px;
+    padding: 10px;
+    top: 20px;
+}
+.menu{
+    float: right;
+    display: inline;
+    
+}
+.logo {
+    display: inline-block;
+}
+}
+.navbar img{
+    padding  bottom: 9px;
+    margin top:  5px;
+    
+}
+.menu{
+    float: right;
+}
+.menu {
+  margin-top: 23px;
+}
+.menu a{
+    /* margin: 48px;
+    padding-right: 3px;
+} */
+
+text-align: center;
+    padding: 38px;
+    margin: -29px;
+    color: black;
+    letter-spacing: 2px;
+    opacity: 0.8;
+    font-family: brandon-grotesque;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .14em;
+    font-weight: bolder;
+    padding-right: 74px;
+}
+.menu a:hover{
+    color: red;
+}
+.image1 h1{
+    position: absolute;
+    left: 296px;
+    bottom: -208px;
+    letter-spacing: 10px;
+    color: white;
+    font-size: 60px;
+}
+.image1{
+padding-top: 33px;
+}
+.image1 img{
+    width: 100%;
+}
+.heading{
+    text-align: center;
+    padding: 60px;
+    font-family: brandon-grotesque;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: -.02em;
+    line-height: 2.3em;
+    text-transform: none;
+}
+.para1{
+    padding: 10px;
+}
+.para1 p{
+    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 26px;
+    letter-spacing: 0em;
+    line-height: 1.7em;
+    text-transform: none;
+    color: rgba(29,29,29,.7);
+}
+.para1 p:hover{
+    transition: 0.7s;
+    color: rgb(153, 64, 64);
+}
+.mlink{
+    text-align: center;
+   margin:148px;
+   
+}
+.mlink a{  
+   
+    color: rgb(153, 64, 64);
+    font-size:30px;
+    border-style: solid;
+    display: inline-block;
+}
+.mlink a:hover{
+    color: white;
+    background-color: black;
+    padding: 10px;
+  display: inline-block;
+}
+.images{
+    text-align: center;
+    margin: 10px;
+}
+.images img{
+    height: 50%;
+    width: 25%;
+    padding: 10px;
+}
+.image2 img{
+    width: 100%;
+}
+.multi h1{
+ font-size: medium;
+}
+.multi p{
+    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    letter-spacing: 0em;
+    line-height: 1.7em;
+    text-transform: none;
+    color: rgba(29,29,29,.7);
+}
+.multi p:hover{
+    color: red;
+}
+.multi{
+    padding-top: 30px;
+}
+.follow{
+    text-align: center;
+    padding-top: 90px;
+}
+.follow img{
+    height: 37px;
+    margin-left: 10px;
+}
+.follow h1{
+    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    letter-spacing: 0em;
+    line-height: 1.7em;
+    text-transform: none;
+    color: rgb(0, 0, 0);
+}
+.icon{
+    text-align:center;
+  
+}
+.media a img{
+    height: 30px;
+}
+.multiplep{
+    text-align: center;
+    font-family: futura-pt;
+    color:rgba(29,29,29,.7);
+    line-height: 2.2;
+}

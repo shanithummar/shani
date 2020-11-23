@@ -1,0 +1,48 @@
+.image1 img{
+    width: 100%;
+}
+.forms form{
+    position: absolute;
+    text-align: center;
+    margin-left: 563px;
+    top:330px;
+    
+}
+.forms  form,lable{
+    color: rgb(226, 226, 226);
+    font-size: 20px;
+   
+   
+}
+.forms  form,input{
+    border-radius: 16px;
+    height:30px;
+    width: 287px;
+    border-bottom: lightslategray;
+   border-style: none;
+}
+.ml label{
+    color: white;
+    font-size: 20px;
+}
+.forms img{
+    width: 100px;
+    margin-right: 30px;
+}
+.forms h2{
+    color: rgb(211, 211, 211);
+    background-color: black;
+    border-radius: 10px;
+  
+ 
+}
+.forms h2:hover{
+    background-color: rgb(244, 245, 244);
+    color: black;
+}
+.image1 form{
+    background-color: brown;
+    height:370px;
+    width:313px;
+    opacity: 0.7;
+}

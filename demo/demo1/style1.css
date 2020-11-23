@@ -1,0 +1,107 @@
+*{
+    margin:0px;
+    padding:0px;
+
+  
+}
+.logo {
+    display: inline-block;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.logo a{
+    color: black;
+    letter-spacing: 2px;
+  font-family: cursive;
+}
+.navbar {
+    padding  bottom: 9px;
+    margin top:  5px;  
+}
+.menu{
+    float: right;
+}
+.menu {
+  margin-top: 15px;
+  margin-right: 30px;
+}
+.menu a{
+    margin: 13px;
+    color: black;
+    font-family: "Playfair Display";
+}
+.section{
+    display: inline-block;
+    padding-top: 30px;
+}
+.img1 img{
+    width: 100%;
+}
+.img1 h1{
+    position: absolute;
+    top: 668px;
+    color: cornflowerblue;
+}
+.img2{
+    padding-top: 40px;
+    display: inline-block;
+}
+.para1{
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+.para1 h1{
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+.para1 p{
+line-height: 1.7;
+letter-spacing: 1px;
+}
+.para2{
+    padding-top:100px;
+    display: inline-block;
+}
+.para2 h1{
+    margin-left:300px;
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+.p1{
+    margin-left:100px;
+    line-height: 1.9;
+}
+.p1 h4{
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.p1 p{
+    font-family: "Times New Roman", Georgia, Serif;
+    color:  #757575!important;
+}
+.d3{
+    float: right;
+    margin-right: 100px;
+    padding-top: 40px;
+    opacity: 0.7;
+    display: block;
+}
+.d3 img{
+    height:600px;
+}
+.footer{
+    padding-top: 200px;
+    text-align: start;
+    margin-left:102px;
+    display: block;
+}
+.input{
+    width: 100%;
+    border: 1px solid;
+    height:45px;
+}
+.footer h4{
+    color: lightslategray;
+}

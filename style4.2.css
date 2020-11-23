@@ -1,0 +1,92 @@
+*{
+    margin:0px;
+    padding:0px;
+
+  
+}
+.logo {
+    display: inline-block;
+}
+
+.navbar img{
+    padding  bottom: 9px;
+    margin top:  5px;
+    
+}
+.menu{
+    float: right;
+}
+.menu {
+  margin-top: 15px;
+  margin-right: 30px;
+}
+.navbar a{
+
+    text-align: center;
+    padding: 42px;
+    margin: -27px;
+    color: black;
+    letter-spacing: 2px;
+    opacity: 0.8;
+    font-family: brandon-grotesque;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .14em;
+    font-weight: bolder;
+}
+.navbar a:hover{
+    color: red;
+}
+.bg1 {
+ padding-top: 70px;
+}
+.bg1 img{
+    width: 100%;
+}
+.bg1 h1{
+    /* position: absolute;
+    top: 86%;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 65px;
+    color: rgba(0, 8, 5, 0.7);
+    left:69%; */
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    letter-spacing: 10px;
+    font-size: 65px;
+    color: white;
+}
+.mid1{
+    padding: 70px;
+    font-size: 17px;
+    letter-spacing: 3px;
+    color: rgb(207, 100, 12);
+    line-height: 1.7;
+    text-align: center;
+    font-family: futura-pt;
+}
+.mid1 p:hover{
+    color: rgb(190, 188, 14);
+   transition: 0.3s;
+}
+.images img{
+    width: 171.624px;
+    height: 251px;margin: 50px;
+    text-align: center;
+    margin-right: 43px;
+}
+.icon{
+    text-align:center;
+  
+}
+.media a img{
+    height: 30px;
+}
+.multiplep{
+    text-align: center;
+    font-family: futura-pt;
+    color:rgba(29,29,29,.7);
+    line-height: 2.2;
+}

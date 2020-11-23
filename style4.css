@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding:0;
+
+  
+}
+.logo {
+    display: inline-block;
+    margin-left:50px;
+}
+
+.navbar img{
+    padding  bottom: 9px;
+    margin top:  5px;
+}
+   
+.menu{
+    float: right;
+}
+.menu {
+  margin-top: 15px;
+  margin-right: 300px;
+}
+
+.navbar a{
+    text-align: center;
+    padding: 42px;
+    margin: -27px;
+    color: black;
+    letter-spacing: 2px;
+    opacity: 0.8;
+    font-family: brandon-grotesque;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: .14em;
+    font-weight: bolder;
+    
+}
+.navbar a:hover{
+    color: red;
+}
+.img  img{
+  padding-top: 97px;
+   width: 100%;
+}
+.img h1{
+    position: absolute;
+    top: 80%;
+    /* margin: 314px;
+    padding: 589px; */
+    /* padding-top: 300px; */
+    letter-spacing: 10px;
+    font-size: 65px;
+    color: rgba(226, 35, 35, 0.7);
+    left:70%;
+}
+.video1{
+     padding: 40px;
+    
+}
+  .video1 iframe{
+      width:100%;
+      text-align: center;
+}
+.img1 img{
+    height: 50%;
+    padding:58px 36px;
+   float: left;
+   margin-right: 10px;
+   /* width: 40%; */
+   display: inline-block;
+}
+  .img1 p{
+
+    font-family: futura-pt;
+    font-weight: 500;
+    font-style: normal;
+    font-size:22px;
+    letter-spacing:1px;
+    line-height: 1.6;
+    text-transform: none;
+    color: rgba(226, 35, 35, 0.7);
+    padding: 60px;
+   
+}
+  .img1 p:hover{
+      transition: 3s;
+     color: teal;
+}
+ .img2 a img{
+    
+    height: 50%;
+    width: 40%;
+    display: inline-block;
+}
+
+  .para2 p{
+    color: rgba(226, 35, 35, 0.7);
+    font-family: futura-pt;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    letter-spacing: 1px;
+    line-height: 1.6;
+    text-transform: none;
+    padding: -14px;
+   
+}
+  .para2 p:hover{
+      color: springgreen;
+      transition:3s;
+}
+  .icon{
+    text-align:center;
+    padding-top: 200px;
+    display: inline-block;
+  }
+.media a img{
+    height: 30px;
+    width: 27px;
+    margin: 10px;
+    
+}
+.multiplep{
+    text-align: center;
+    font-family: futura-pt;
+    color:rgba(29,29,29,.7);
+}
+@media screen and (max-width: 375px) {
+  .img1 img{
+    height: 100%;
+    padding:58px 36px;
+   float: left;
+   margin-right: 10px;
+   /* width: 40%; */
+   display: inline-block;
+}
+.img2 a img{
+    
+  height: 50%;
+  width: 100%;
+  display: inline-block;
+}
+
+}

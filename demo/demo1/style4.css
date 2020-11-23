@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.section{
+    margin-top: 100px;
+    float: left;
+  
+}
+.head{
+    display: block;
+}
+.icon{
+    float: left;
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: -6px;
+}
+.icon img{
+    width: 23%;
+}
+.food {
+    text-align: center;
+    display: inline-block;
+}
+.food a{
+    font-size: 25px;
+    color: black;
+    font-family: "Karma", sans-serif;
+}
+.mail{
+    float: right;
+    display: inline-block;
+    margin-right:322px;
+}
+.mail a{
+    font-size: 25px;
+  color: black;
+  font-family: "Karma", sans-serif;
+}
+.image1{
+    float: left;
+    width:16%;
+    margin-left: 77px;
+    
+}
+.image1 img{
+    width:100%;
+ 
+}
+.image1 h3 ,p{
+    font-family: "Karma", sans-serif;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}
+
+.image1 p{
+    color: slategray;
+}
+
+.image2{
+    float: left;
+    width:16%;
+    margin-left: 77px;
+    margin-top: 50px;
+}
+.image2 img{
+    width:100%;
+    
+}
+.image2 h3 ,p{
+    font-family: "Karma", sans-serif;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}
+.image2 p{
+    color: slategray;
+}
+.num{
+    clear: both;
+    text-align: center;
+   padding-top: 60px;
+   display: block;
+}
+.num a{
+    margin: 10px;
+    
+}
+.num a:hover{
+    background-color: black;
+    color: blanchedalmond;
+  
+}
+.para{
+    margin-top: 100px;
+    text-align: center;
+}
+.para h3{
+    font-family: "Karma", sans-serif;
+    font-weight: 400;
+}
+.head{
+    text-align: center;
+    margin-top: 40px;
+   
+}
+.head h2,p{
+    font-family: "Karma", sans-serif;
+    font-weight: 400;
+}
+.head p{
+    margin-left: 40px;
+    text-align: center;
+    margin: 10px 10px;
+    color: slategray;
+   }
+   .footer{
+       margin-top: 100px;
+      margin-left: 70px;
+   }
+   .foot1 h3{
+      font-size: 30px;
+ }
+   .foot1{
+       display: inline-block;
+   }
+   .foot1 p{
+       font-size: 14px;
+   }
+   

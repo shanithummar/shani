@@ -1,0 +1,146 @@
+*{
+    margin: 1;
+    padding: 1;
+}
+.heading{
+text-align: center;
+}
+.heading h1{
+    font-family: "Raleway", sans-serif;
+}
+.section{
+    margin-top: 40px;
+}
+.img1{
+    display: inline-block;
+}
+.img1 img{
+    display: inline-block;
+    width:68%;
+    height:300px;
+    /* box-shadow: 5px 10px 18px gray; */
+}
+
+.bg1{
+    /* background-color: white; */background-color: rgb(255, 255, 255);
+    width: 68%;
+    display: inline-block;
+    box-shadow: 5px 10px 18px gray;
+}
+
+.bg1 p1{
+       width: 30%;
+       letter-spacing: 2px;
+       color: darkslategrey;
+}
+.img2{
+    float: right;
+    display: inline-block;
+    box-shadow: 5px 10px 18px gray;
+}
+.img2 img{
+    width: 100%;
+}
+.bg2{
+    background-color: white;
+    padding-top: 10px;
+}
+.img3{
+    margin-top: 30px;
+    width: 65%;
+    display: inline-block;
+}
+.bg3{
+    background-color: white;
+    /* width: 100%; */
+    padding-top:10px ;
+    margin-top: -5px;
+}
+
+.img3 img{
+    display: inline-block;
+    width: 100%;
+    box-shadow: 5px 10px 18px gray;
+}
+
+.bg3 para{
+    color:  darkslategrey;
+}
+
+.sidebar{
+    width: 30%;
+    float: right;
+}
+
+.popular{
+    /* float: right; */
+    /* width: 30%; */
+}
+.popularheading{
+    /* float: right; */
+    display: block;
+}
+.sideimage img{
+    width: 50px;
+    height: 50px;
+}
+.sideimage{
+    display: inline-block;
+    margin-right: 20px;
+}
+.sidecomponent{
+    /* float: right; */
+    /* width: 30%; */
+    /* display: inline-block; */
+    margin: 10px;
+
+
+}
+.sidepara{
+    float: right;
+    /* margin-right: 180px; */
+}
+
+.sidepara p{
+    padding: 5px;
+    margin: 0;
+}
+.tag{
+    /* width: 30%; */
+    /* float: right; */
+    margin-top: 50px;
+}
+.h2{
+    /* float: right; */
+    text-align: center;
+}
+.h2 h1{
+    background-color: gray;
+    width: 100%;
+    margin: 0px;
+    
+}
+.tags{
+    background: white;
+    padding-top: 30px;
+}
+
+    
+.tags span{
+    margin: 10px;color: rgb(110, 80, 80);opacity: 0.7;
+    
+   
+}
+.footer{
+    background-color: black;
+    padding: 60px ;
+    margin-top: 44px;
+    opacity: 0.7;
+}
+.footer button{
+float: left;
+margin: 10px;
+margin-top: -5px;
+
+
+} 

@@ -1,0 +1,189 @@
+
+.navbar{
+    width: 10%;
+    background-color: rgb(27, 26, 26);
+ 
+}
+.navbar img{
+    width: 100%;
+    display: inline-block
+}
+.navbar p{
+    text-align: center;
+    height: 85px;
+    color: rgb(255, 255, 255);
+  
+}
+.navbar p:hover{
+    background-color: black;
+}
+.heading{
+    margin-top: -583px;
+    margin-left: 650px;
+}
+.heading h1,p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+.image{
+    float:right;
+    width: 1083px;
+}
+.image img{
+    width: 90%;
+    max-height: auto;
+}
+.name{
+    width: 20%;
+}
+.name h1{
+    color: rgb(255, 255, 255);
+}
+.name p{
+    width: 462%;
+    display: inline-block;
+    color: rgb(237, 150, 150);
+}
+.skill{
+    width: 20%;
+}
+.skill h1{
+    color: white;
+}
+.skill p{
+    color: rgb(237, 150, 150);
+}
+.skill p{
+    width: 462%;
+    display: inline-block
+}
+.se h3{
+    color: white;
+}
+.skills p{
+    color: rgb(228, 227, 227);
+    letter-spacing: 5px;
+    font-family: "Montserrat", sans-serif;
+}
+.skills span{
+    background-color: white;
+    height: 100px;
+    width: 60%;
+}
+.skills button{
+    background-color: black;
+    color: white;
+}
+.portfolio{
+    width: 90%;
+    background-image: linear-gradient(to right, rgb(26, 37, 35) , rgb(209, 209, 189));
+    height:68px;
+    padding: 20px;
+}
+.p1 h3{
+    color: rgb(253, 245, 245);
+   
+}
+.p2 h3{
+    margin-left:215px;
+    margin-top: -63px; color: rgb(253, 245, 245);
+}
+.p3 h3{
+    margin-left:700px;
+    margin-top: -54px; color: rgb(253, 245, 245);
+}
+.p4 h3{
+    margin-left:464px;
+    margin-top: -68px; color: rgb(253, 245, 245);
+}
+.pbutton button{
+    padding: 10px;
+    background-color: rgb(107, 107, 107);
+    color: white;
+    letter-spacing: 2px;
+    font-size: 15px;
+   
+}
+
+.pre1{
+    width: 40.33%;
+    background-color: rgb(253, 253, 252);
+    opacity: 0.5;
+}
+.pre1:hover{
+    opacity: 1.0;
+}
+.pre1 h1{
+    background-color: rgb(158, 152, 152);
+    color:rgb(255, 255, 255);
+    padding: 30PX;
+    text-align: center;
+}
+.premium1 h3{
+    color: black;
+}
+.preinfo1{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(41, 38, 38) , rgb(209, 209, 209));
+    margin-top: -21px;
+}
+.preinfo1 p{
+    color: rgb(255, 255, 255);
+}
+
+.pre2{
+    width: 40.33%;
+    background-color: rgb(253, 253, 252);
+    opacity: 0.5;
+    margin-top: -496px;
+    margin-left: 530px;
+  
+}
+.pre2:hover{
+    opacity: 1.0;
+}
+.pre2 h1{
+    background-color:#009688; 
+    color:white;
+    padding: 30PX;
+    text-align: center;
+}
+.premium2 h3{
+    color: black;
+}
+.preinfo2{
+    text-align: center; background-image: linear-gradient(to right, rgb(124, 212, 132) , rgb(209, 209, 209));
+    margin-top: -22px;
+} 
+.preinfo2 p{
+    color: rgb(255, 255, 255);
+}
+.contact{
+    width: 30%;
+}
+.contact h1{
+    color: #757575!important;font-family: "Montserrat", sans-serif;
+}
+.contact h3{
+    color: #ffffff!important;font-family: "Montserrat", sans-serif;
+}
+.forms h1{
+    color: #757575
+}
+.form label{
+    color: white;
+}
+.form input{
+   width: 100%;
+   height: 32px;
+   border-radius: 1px;
+  }
+.send button{
+    padding: 5px;
+}
+.send button:hover{
+    background-color: black;
+    color: white;
+}

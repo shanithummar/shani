@@ -1,0 +1,381 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.navbar{
+    background-color: black;
+}
+.navbar a img{
+width:1%;
+padding: 4px;
+margin: 4px;
+display: inline-block;
+font-weight: 200;
+margin-left: 30px;
+}
+.heading{
+    /* text-align: center; */
+    margin-top: 60px;
+    display: block;
+}
+.heading h1{
+    font-family: "Oswald";
+    font-size: 48px;
+   font-weight: 400;
+   text-align: center;
+}
+.heading h3{
+    font-family: "Oswald";
+    font-weight: 400;
+    text-align: center;
+    display: block;
+}
+.img{
+    margin-top: 50px;
+}
+.img img{
+    width: 100%;
+}
+.img .position{
+    position:absolute;
+}
+.position{
+    top: 492px;
+    margin-left: 30px;
+
+}
+.position h1{
+color: white;
+letter-spacing: 1px;
+font-size: 48px;font-family: "Oswald";
+font-weight: 400;
+}
+.position h3{
+    color: white;
+    letter-spacing: 3px;
+    font-size: 55px;font-family: "Oswald";
+    font-weight: 400;
+    
+    }
+    .position  button{
+      padding: 10px;     
+      background-color: grey;
+      opacity: 0.7;
+      color: white;
+        }
+    
+.heading1{
+    margin-top: 30px;
+    width: 60%;
+   display: block;
+    background-color: white;
+    margin-left: 30px;
+    
+}
+.title{
+    text-align: center;
+   
+}
+.title h3{
+   font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.img2 p{
+    float: right;
+    margin-right: 30px;
+}
+.img2 p,button{
+    margin-top: 10px;
+}
+.img3 img{
+    margin-top: 100px;
+    width: 120px;
+    margin-left: 30px;
+    display: inline-block;
+}
+.time1{
+    float: right;
+    margin-right: 389px;
+    margin-top: -84px;
+    display: inline-block;
+}
+.time1 h4{
+    font-family: "Oswald";
+    font-size: 20px;
+}
+.heading2{
+    margin-top: 30px;
+    width: 60%;
+   display: block;
+    background-color: white;
+    margin-left: 30px;
+    
+}
+.heading3{
+    margin-top: 30px;
+    width: 60%;
+   display: block;
+    background-color: white;
+    margin-left: 30px;
+    
+}
+.side1{
+    float: right;
+    margin-top:-2527px;
+    display: inline-block;
+    margin-right: 40px;
+}
+.side1 img{
+    width: 100%;
+    opacity: 0.7;
+ 
+}
+.sidehead{
+    margin-top: -4px;
+    height: 129px;
+}
+.sidehead h4{
+    font-size: 34px;
+  font-family: cursive;
+   color: silver;
+}
+.side2{
+    float: right;
+    width: 30%;
+    margin-top: -2112px;
+    display: inline-block;
+    margin-right: 37px;
+}
+.popular{
+background-color: black;
+}
+.popular h1{
+    padding: 10px;
+    color: white;
+    font-family: "Oswald";
+    font-size: 20px;
+}
+.denim img{
+    width: 18%;
+   margin: 10px;
+   display: inline-block;
+}
+.span1{
+    float: right;
+    margin-right:210px;
+    margin-top: -70px;
+    display: inline-block;
+}
+.span1 span{
+    color: black;
+}
+
+.ad{
+    background-color: black;
+    float: right;
+    width: 31%;
+    margin-top: -1548px;
+    margin-right: 27px;
+    display: inline-block;
+}
+.ad h1{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+.adv{
+    float: right;
+    margin-top: -1500px;
+    margin-right:100px;
+   
+}
+ 
+
+.adv iframe{
+  width: 100%;
+ 
+  
+}
+.tags{
+    background-color: black;
+    float: right;
+    width: 31%;
+    margin-top: -1287px;
+    margin-right: 27px;
+    display: inline-block;
+}
+.tags h1{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.tg{
+    float: right;
+    margin-top: -1244px;
+    margin-right: 27px;
+    background-color: white;
+    width: 31%;
+    height: 165px;
+    display: inline-block;
+  
+}
+.tg1 span{
+    margin: 15px;
+    background-color: rgba(190, 188, 188, 0.603);
+   font-style: oblique;
+   font-weight: 400;
+}
+.insipiration{
+    background-color: black;
+    float: right;
+    width: 31%;
+    margin-top: -1014px;
+    margin-right: 27px;
+    display: inline-block;
+}
+.insipiration h1{
+     color: white;
+    padding: 10px;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.s4image{
+    margin-right: 15px;
+}
+.s41images img{
+    width: 13%;
+    float: right;
+    margin-top: -951px;
+    margin-right: 35px;
+    display: inline-block;
+  
+}
+.s42images img{
+    width: 13%;
+    float: right;
+    margin-top: -951px;
+    margin-right: 25px;
+    display: inline-block;
+    margin-right: 224px;
+}
+.s43images img{
+    width: 13%;
+    float: right;
+    margin-top: -818px;
+    margin-right: 25px;
+    display: inline-block;
+    margin-right: 224px;
+}
+.s44images img{
+    width: 13%;
+    float: right;
+    margin-top: -818px;
+    margin-right: 25px;
+    display: inline-block;
+    margin-right:34px;
+}
+.sub{
+    background-color: black;
+    float: right;
+    width: 31%;
+    margin-top: -622px;
+    margin-right: 27px;
+    display: inline-block;
+}
+.sub h1{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.mail{
+    float: right;
+    margin-top: -578px;
+    margin-right: 27px;
+    display: inline-block;
+
+}
+.form{
+    float: right;
+    margin-top: -544px;
+    margin-right: 270px;
+    display: inline-block;
+   
+}
+   .form input{
+       width:195%;
+       height: 37px;
+       border: 1px solid;
+   }
+   .subscribe{
+    background-color:orangered;
+    float: right;
+    width: 31%;
+    margin-top: -486px;
+    margin-right: 27px;
+    display: inline-block;
+    opacity: 0.7;
+   
+}
+.subscribe h1{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding: 10px;
+}
+.mail{
+background-color: white;
+height: 188px;
+width: 31%;
+}
+.follow{
+    background-color: black;
+    float: right;
+    width: 31%;
+    margin-top: -322px;
+    margin-right: 27px;
+    display: inline-block;
+}
+.follow h1{
+    color: white;
+    padding: 10px;
+    font-size: 24px;
+    
+}
+.img6{
+    background-color: white;
+    float: right;
+    width: 31%;
+    margin-top: -256px;
+    margin-right: 27px;
+}
+
+.img6 img{
+    width: 5%;
+    padding: 10px;
+   opacity: 0.7;
+  font-weight: 400;
+  font-size: inherit;
+ 
+
+}
+.img6 img:hover{
+    background-color: black;
+    opacity: 0.7;
+}
+.footer{
+    background-color: black;
+    margin-top: 30px;
+    padding: 50px;
+}
+.footer p{
+    color: white;
+    font-size: 26px;
+   
+}
+.footer p span{
+    background-color: white;
+    color: black;
+    font-size:29px;
+}

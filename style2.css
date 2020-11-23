@@ -1,0 +1,32 @@
+*{
+    margin : 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+  
+   .navbar{
+    background-color: tomato;
+    text-align: center;
+    float: right;
+    display: inline-block;
+  
+   }
+.navbar a{
+   
+        text-decoration: none;
+        color: white;
+        display: inline-block ;
+        margin: 10px;
+        padding: 10px;
+        
+    }
+
+    
+}
+.second{
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+  width: 20px;
+}
