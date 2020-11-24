@@ -19,7 +19,7 @@
 }
 .menu {
   margin-top: 15px;
-  margin-right: 300px;
+  margin-right: 46px
 }
 
 .navbar a{
@@ -92,7 +92,9 @@
     height: 50%;
     width: 40%;
     display: inline-block;
+    margin-left: 33px;
 }
+
 
   .para2 p{
     color: rgba(226, 35, 35, 0.7);
